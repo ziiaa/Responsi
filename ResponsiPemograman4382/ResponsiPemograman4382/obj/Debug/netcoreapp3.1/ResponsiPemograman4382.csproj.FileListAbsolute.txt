@@ -1,0 +1,13 @@
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.csprojAssemblyReference.cache
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.AssemblyInfoInputs.cache
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.AssemblyInfo.cs
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.csproj.CoreCompileInputs.cache
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.exe
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.deps.json
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.runtimeconfig.json
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.runtimeconfig.dev.json
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.dll
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\bin\Debug\netcoreapp3.1\ResponsiPemograman4382.pdb
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.dll
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.pdb
+D:\semester2\pemograman\responsi\ResponsiPemograman4382\ResponsiPemograman4382\obj\Debug\netcoreapp3.1\ResponsiPemograman4382.genruntimeconfig.cache
