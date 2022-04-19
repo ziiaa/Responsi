@@ -13,14 +13,14 @@ namespace ResponsiPemograman4382
 
 
 
-		public Karyawan(int NIK, string NAMA, int GajiBiasa)
+		public Karyawan(int NIK, string NAMA, int GajiBulanan)
 		{
 			Nik = NIK;
 			Nama = NAMA;
-			Gaji = GajiBiasa;
+			Gaji = GajiBulanan;
 			GajiNaik = 10;
 
-			if (GajiBiasa < 0)
+			if (GajiBulanan < 0)
 			{
 				Gaji = 0;
 			}
