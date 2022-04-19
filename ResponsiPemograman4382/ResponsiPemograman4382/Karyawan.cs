@@ -30,14 +30,14 @@ namespace ResponsiPemograman4382
 		{
 			int Bonus = Gaji / GajiNaik;
 			Gaji = Gaji + Bonus;
-			Console.WriteLine("{0}   {1} {2}", Nik, Nama, Gaji);
+			Console.WriteLine("{0} {1} {2}", Nik, Nama, Gaji);
 		}
 
 
 
 		public void PrintAndShow()
 		{
-			Console.WriteLine("{0}  {1} {2}", Nik, Nama, Gaji);
+			Console.WriteLine("{0} {1} {2}", Nik, Nama, Gaji);
 		}
 
 
