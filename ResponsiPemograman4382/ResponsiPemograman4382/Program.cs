@@ -16,7 +16,7 @@ namespace ResponsiPemograman4382
 			karyawan1.PrintAndShow();
 			karyawan2.PrintAndShow();
 
-			Console.WriteLine("\n\n Selamat kalian Dapat Kenaikan Gaji 10% !!");
+			Console.WriteLine("\n\n Assyyiiikkkk Kenaikan Gaji 10% !!");
 			Console.WriteLine("NIK \t\t\t Nama \t\t  Gaji");
 			Console.WriteLine("-------------------------------------------------------------");
 
